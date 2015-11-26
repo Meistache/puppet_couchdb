@@ -1,5 +1,7 @@
 # Couchdb Puppet module
 
+[![Build Status](https://snap-ci.com/pixelated/puppet_couchdb/branch/master/build_image)](https://snap-ci.com/pixelated/puppet_couchdb/branch/master)
+
 This module is based on the one from Camptocamp_.
 
 .. _Camptocamp: http://www.camptocamp.com/
